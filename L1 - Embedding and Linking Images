@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image Gallery</title>
+</head>
+<body>
+
+  <h1>My Image Gallery</h1>
+
+  <section>
+    <img src="https://via.placeholder.com/150" alt="Image 1 - Nature" />
+    <br />
+    <a href="https://unsplash.com/s/photos/nature" target="_blank">Explore Nature</a>
+  </section>
+
+  <section>
+    <img src="https://via.placeholder.com/150" alt="Image 2 - Technology" />
+    <br />
+    <a href="https://www.techradar.com/" target="_blank">Visit TechRadar</a>
+  </section>
+
+  <section>
+    <img src="https://via.placeholder.com/150" alt="Image 3 - Art" />
+    <br />
+    <a href="https://www.deviantart.com/" target="_blank">Explore Artworks</a>
+  </section>
+
+</body>
+</html>
