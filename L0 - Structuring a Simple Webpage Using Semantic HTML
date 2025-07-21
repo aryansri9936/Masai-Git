@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Semantic Webpage</title>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to My Webpage</h1>
+    <nav>
+      <a href="#home">Home</a> |
+      <a href="#about">About</a> |
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section>
+    <article>
+      <h2>Blog Post 1</h2>
+      <p>This is the content of the first blog post. It explains the use of semantic HTML.</p>
+    </article>
+    <article>
+      <h2>Blog Post 2</h2>
+      <p>This is the second post. Semantic HTML makes your code more readable and accessible.</p>
+    </article>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 My Webpage. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
